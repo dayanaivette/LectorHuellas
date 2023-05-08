@@ -1,0 +1,2 @@
+# LectorHuellas
+Practica Sistemas Expertos
